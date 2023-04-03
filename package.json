@@ -1,7 +1,7 @@
 {
   "name": "second_stage",
   "version": "0.1.0",
-  "homepage": "https://devsrpereira.github.io/React--Scrimba--Desafio02--/",
+  "homepage": "https://devsrpereira.github.io/React--Scrimba--Desafio02--First_Deploied",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
